@@ -1,0 +1,10 @@
+# Xcode generated project (run xcrun command to generate locally)
+YouTube Clean/
+
+# Xcode user settings
+*.xcodeproj/project.xcuserstate
+*.xcworkspace/
+xcuserdata/
+
+# macOS
+.DS_Store
